@@ -1,0 +1,68 @@
+.navbrand {
+	font-family: 'Megrim', cursive;
+	font-size: 30px;
+}
+.nava{
+	font-family: 'Poiret One', cursive;
+}
+
+.header1 {
+	background-image: url("fb.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+	margin: auto;
+}
+
+.headertext1 {
+	font-family: 'Megrim', cursive;
+	font-size: 70px;
+	color: #787878;
+	position: absolute;
+  bottom: 50%;
+  width: 100%;
+  text-align: left;
+
+
+}
+
+.pj1 {
+	font-family:'Poiret One', cursive;
+	font-size: 25px;
+	position: relative;
+	text-align: center;
+
+}
+
+.pj2 {
+	font-family:'Poiret One', cursive;
+	font-size: 20px;
+	position: relative;
+	text-align:center;
+
+}
+
+.pg1 {
+	font-family: 'Megrim', cursive;
+	font-size: 50px;
+	position: relative;
+	text-align: center;
+}
+
+.pg {
+	font-family:'Poiret One', cursive;;
+	color: black;
+	position: relative;
+	text-align:center;
+
+
+}
+
+.imgs1{
+	width: 70px;
+	height: 70px;
+}
+.imgs2{
+	width: 75px;
+	height: 70px;
+}
